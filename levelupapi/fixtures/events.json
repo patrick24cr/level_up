@@ -1,0 +1,24 @@
+[
+    {
+        "model": "levelupapi.event",
+        "pk": 1,
+        "fields": {
+            "game": 1,
+            "description": "WoW On New Years",
+            "date": "2023-1-1",
+            "time": "11:18:23.585280",
+            "organizer": 1
+        }
+    },
+    {
+        "model": "levelupapi.event",
+        "pk": 2,
+        "fields": {
+            "game": 2,
+            "description": "Chess On New Years",
+            "date": "2023-1-1",
+            "time": "11:18:23.585280",
+            "organizer": 1
+        }
+    }
+]
